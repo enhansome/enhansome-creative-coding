@@ -106,10 +106,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T12:44:23Z",
+            "last_commit": "2026-08-16T10:36:53Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 114521
+            "stars": 114548
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-14T18:05:53Z",
             "owner": "BabylonJS",
             "repo": "Babylon.js",
-            "stars": 25931
+            "stars": 25934
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2024-08-14T13:20:18Z",
             "owner": "theatre-js",
             "repo": "theatre",
-            "stars": 12606
+            "stars": 12608
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-08-04T15:44:32Z",
             "owner": "regl-project",
             "repo": "regl",
-            "stars": 5568
+            "stars": 5569
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-06-16T19:27:27Z",
             "owner": "kripken",
             "repo": "ammo.js",
-            "stars": 4553
+            "stars": 4554
           }
         },
         {
@@ -218,10 +218,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T14:36:32Z",
+            "last_commit": "2026-08-15T19:47:23Z",
             "owner": "visgl",
             "repo": "luma.gl",
-            "stars": 2463
+            "stars": 2464
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2019-05-23T20:55:00Z",
             "owner": "mattdesl",
             "repo": "lwjgl-basics",
-            "stars": 1894
+            "stars": 1895
           }
         },
         {
@@ -484,7 +484,7 @@
             "last_commit": "2022-03-08T02:36:31Z",
             "owner": "Experience-Monks",
             "repo": "math-as-code",
-            "stars": 15487
+            "stars": 15486
           }
         },
         {
@@ -574,7 +574,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78098
+            "stars": 78112
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23496
+            "stars": 23499
           }
         },
         {
@@ -599,10 +599,10 @@
           "repo_info": {
             "archived": false,
             "language": "Markdown",
-            "last_commit": "2026-08-10T17:51:51Z",
+            "last_commit": "2026-08-16T13:23:25Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17129
+            "stars": 17136
           }
         },
         {
@@ -616,7 +616,7 @@
             "last_commit": "2024-07-04T19:13:09Z",
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10193
+            "stars": 10195
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-13T14:34:10Z",
             "owner": "willianjusten",
             "repo": "awesome-audio-visualization",
-            "stars": 5059
+            "stars": 5060
           }
         },
         {
@@ -644,7 +644,7 @@
             "last_commit": "2026-08-10T09:09:40Z",
             "owner": "toplap",
             "repo": "awesome-livecoding",
-            "stars": 3266
+            "stars": 3268
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2026-06-14T09:29:51Z",
             "owner": "raphamorim",
             "repo": "awesome-canvas",
-            "stars": 1855
+            "stars": 1854
           }
         },
         {
@@ -755,7 +755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:49:05.799Z",
+    "last_updated": "2026-08-16T14:49:22.862Z",
     "original_repository": "terkelg/awesome-creative-coding",
     "original_repository_sha": "9643124b4a883e20dfb1b79df69505418728dbeb",
     "enhanced_repository": "enhansome/enhansome-creative-coding",
