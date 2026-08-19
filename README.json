@@ -111,10 +111,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T11:27:02Z",
+                "last_commit": "2026-08-19T14:53:43Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114609
+                "stars": 114614
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-14T18:05:53Z",
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25946
+                "stars": 25947
               }
             },
             {
@@ -478,7 +478,7 @@
                 "last_commit": "2021-03-20T20:52:04Z",
                 "owner": "stackgl",
                 "repo": "shader-school",
-                "stars": 4411
+                "stars": 4412
               }
             },
             {
@@ -615,7 +615,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78143
+            "stars": 78147
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23504
+            "stars": 23506
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17150
+            "stars": 17151
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2024-07-04T19:13:09Z",
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10193
+            "stars": 10192
           }
         },
         {
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:24:50.855Z",
+    "last_updated": "2026-08-19T15:02:11.035Z",
     "original_repository": "terkelg/awesome-creative-coding",
     "original_repository_id": 72586805,
     "original_repository_sha": "9643124b4a883e20dfb1b79df69505418728dbeb",

@@ -169,8 +169,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ### Web Programming • Libraries
 
-* [three.js](https://github.com/mrdoob/three.js/) ⭐ 114,609 | 🐛 371 | 🌐 JavaScript | 📅 2026-08-19 - JavaScript 3D library.
-* [Babylon.js](https://github.com/BabylonJS/Babylon.js) ⭐ 25,946 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-14 - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
+* [three.js](https://github.com/mrdoob/three.js/) ⭐ 114,614 | 🐛 373 | 🌐 JavaScript | 📅 2026-08-19 - JavaScript 3D library.
+* [Babylon.js](https://github.com/BabylonJS/Babylon.js) ⭐ 25,947 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-14 - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
 * [Theatre.js](https://github.com/theatre-js/theatre) ⭐ 12,616 | 🐛 141 | 🌐 TypeScript | 📅 2024-08-14 - Motion design library with visual tools.
 * [regl](https://github.com/regl-project/regl) ⭐ 5,570 | 🐛 126 | 🌐 JavaScript | 📅 2026-08-04 - Functional WebGL.
 * [OGL.js](https://github.com/oframe/ogl) ⭐ 4,627 | 🐛 24 | 🌐 JavaScript | 📅 2025-04-13 - JavaScript 3D library (WebGL).
@@ -364,7 +364,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ### Interactive
 
-* [Shader-school](https://github.com/stackgl/shader-school) ⭐ 4,411 | 🐛 48 | 🌐 JavaScript | 📅 2021-03-20 - Workshop for GLSL shaders and graphics programming.
+* [Shader-school](https://github.com/stackgl/shader-school) ⭐ 4,412 | 🐛 48 | 🌐 JavaScript | 📅 2021-03-20 - Workshop for GLSL shaders and graphics programming.
 * [Webgl-workshop](https://github.com/stackgl/webgl-workshop) ⭐ 1,497 | 🐛 37 | 🌐 JavaScript | 📅 2024-04-06 - The sequel to shader-school: Learn the WebGL API.
 * [Fragment-foundry](https://hughsk.io/fragment-foundry) - Interactive fragment shader tutorial.
 * [SDF Tutorial 1: box & balloon](https://www.shadertoy.com/view/Xl2XWt) - Shadertoy tutorial on raytracing.
@@ -536,10 +536,10 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Related
 
-* [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,143 | 🐛 159 | 📅 2026-08-04 - Curated list of public available datasets, mostly free resources.
-* [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,504 | 🐛 91 | 📅 2024-05-17 - Curated list of awesome computer vision resources.
-* [Magic tools](https://github.com/ellisonleao/magictools) ⭐ 17,150 | 🐛 12 | 🌐 Markdown | 📅 2026-08-17 - Curated list of game development resources to make magic happen.
-* [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) ⭐ 10,193 | 🐛 21 | 📅 2024-07-04 - A resource repository for 3D machine learning.
+* [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,147 | 🐛 159 | 📅 2026-08-04 - Curated list of public available datasets, mostly free resources.
+* [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,506 | 🐛 91 | 📅 2024-05-17 - Curated list of awesome computer vision resources.
+* [Magic tools](https://github.com/ellisonleao/magictools) ⭐ 17,151 | 🐛 13 | 🌐 Markdown | 📅 2026-08-17 - Curated list of game development resources to make magic happen.
+* [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) ⭐ 10,192 | 🐛 21 | 📅 2024-07-04 - A resource repository for 3D machine learning.
 * [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,063 | 🐛 13 | 🌐 Shell | 📅 2026-08-13 - Curated list about Audio Visualization.
 * [Awesome livecoding](https://github.com/toplap/awesome-livecoding) ⭐ 3,269 | 🐛 6 | 📅 2026-08-10 - Curated list of livecoding languages and tools.
 * [Awesome opengl](https://github.com/eug/awesome-opengl) ⭐ 2,432 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources.
