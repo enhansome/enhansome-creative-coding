@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-17T11:09:31Z",
                 "owner": "patriciogonzalezvivo",
                 "repo": "lygia",
-                "stars": 3407
+                "stars": 3409
               }
             },
             {
@@ -111,10 +111,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T14:53:43Z",
+                "last_commit": "2026-08-20T00:57:04Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114614
+                "stars": 114630
               }
             },
             {
@@ -126,10 +126,10 @@
                 "archived": false,
                 "id": 11007313,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T18:05:53Z",
+                "last_commit": "2026-08-20T07:42:27Z",
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25947
+                "stars": 25954
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-08-04T15:44:32Z",
                 "owner": "regl-project",
                 "repo": "regl",
-                "stars": 5570
+                "stars": 5571
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2025-04-13T07:51:49Z",
                 "owner": "oframe",
                 "repo": "ogl",
-                "stars": 4627
+                "stars": 4629
               }
             },
             {
@@ -231,7 +231,7 @@
                 "archived": false,
                 "id": 50340928,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T13:24:11Z",
+                "last_commit": "2026-08-20T14:59:31Z",
                 "owner": "visgl",
                 "repo": "luma.gl",
                 "stars": 2464
@@ -615,7 +615,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78147
+            "stars": 78226
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17151
+            "stars": 17163
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-08-13T14:34:10Z",
             "owner": "willianjusten",
             "repo": "awesome-audio-visualization",
-            "stars": 5063
+            "stars": 5064
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-10T09:09:40Z",
             "owner": "toplap",
             "repo": "awesome-livecoding",
-            "stars": 3269
+            "stars": 3271
           }
         },
         {
@@ -705,7 +705,7 @@
             "last_commit": "2026-01-09T12:26:55Z",
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2432
+            "stars": 2434
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2026-06-14T09:29:51Z",
             "owner": "raphamorim",
             "repo": "awesome-canvas",
-            "stars": 1857
+            "stars": 1858
           }
         },
         {
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:02:11.035Z",
+    "last_updated": "2026-08-20T15:05:20.015Z",
     "original_repository": "terkelg/awesome-creative-coding",
     "original_repository_id": 72586805,
     "original_repository_sha": "9643124b4a883e20dfb1b79df69505418728dbeb",
