@@ -155,10 +155,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:35:13Z",
+                "last_commit": "2026-08-24T14:22:37Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114746
+                "stars": 114748
               }
             },
             {
@@ -170,10 +170,10 @@
                 "archived": false,
                 "id": 11007313,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:36:47Z",
+                "last_commit": "2026-08-24T14:57:40Z",
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25977
+                "stars": 25978
               }
             },
             {
@@ -788,7 +788,7 @@
             "last_commit": "2026-08-23T23:52:17Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78582
+            "stars": 78584
           }
         },
         {
@@ -976,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:57:23.317Z",
+    "last_updated": "2026-08-24T15:10:30.998Z",
     "original_repository": "terkelg/awesome-creative-coding",
     "original_repository_id": 72586805,
     "original_repository_sha": "9643124b4a883e20dfb1b79df69505418728dbeb",
