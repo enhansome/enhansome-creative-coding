@@ -104,6 +104,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "eternal",
+              "description": "[Web] - Programs as graphs and graphs as compositional tools for creation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166133747,
+                "language": "JavaScript",
+                "last_commit": "2025-08-04T16:56:47Z",
+                "owner": "kousun12",
+                "repo": "eternal",
+                "stars": 579
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Visual Programming Languages"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Melrōse",
+              "description": "A MIDI producing environment for creating (live) music.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19406101,
+                "language": "Go",
+                "last_commit": "2026-08-18T05:16:50Z",
+                "owner": "emicklei",
+                "repo": "melrose",
+                "stars": 212
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sound Programming Languages"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "three.js",
               "description": "JavaScript 3D library.",
               "children": [],
@@ -111,10 +155,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T11:38:59Z",
+                "last_commit": "2026-08-24T13:35:13Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114707
+                "stars": 114746
               }
             },
             {
@@ -126,10 +170,10 @@
                 "archived": false,
                 "id": 11007313,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T05:08:44Z",
+                "last_commit": "2026-08-24T12:36:47Z",
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25968
+                "stars": 25977
               }
             },
             {
@@ -174,7 +218,7 @@
                 "last_commit": "2025-04-13T07:51:49Z",
                 "owner": "oframe",
                 "repo": "ogl",
-                "stars": 4632
+                "stars": 4634
               }
             },
             {
@@ -231,7 +275,7 @@
                 "archived": false,
                 "id": 50340928,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T23:58:21Z",
+                "last_commit": "2026-08-23T22:20:43Z",
                 "owner": "visgl",
                 "repo": "luma.gl",
                 "stars": 2464
@@ -286,6 +330,50 @@
           "description": null,
           "node_type": "group",
           "title": "Web Programming • Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VirtualMapper",
+              "description": "Realtime preview tool for projection mapping.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29734830,
+                "language": "C++",
+                "last_commit": "2017-09-07T10:03:31Z",
+                "owner": "baku89",
+                "repo": "VirtualMapper",
+                "stars": 235
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Projection Mapping • VJing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shadershop",
+              "description": "Interface for programming GPU shaders.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27353641,
+                "language": "JavaScript",
+                "last_commit": "2015-02-17T02:07:25Z",
+                "owner": "cdglabs",
+                "repo": "Shadershop",
+                "stars": 919
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Online"
         },
         {
           "children": [
@@ -500,6 +588,28 @@
           "description": null,
           "node_type": "group",
           "title": "Interactive"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Morphogenesis",
+              "description": "Exploration of how shapes, forms, and patterns emerge in nature.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 182890512,
+                "language": null,
+                "last_commit": "2026-08-21T16:28:35Z",
+                "owner": "jasonwebb",
+                "repo": "morphogenesis-resources",
+                "stars": 2277
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Quick References • Cheat Sheets"
         }
       ],
       "title": "Learning Resources"
@@ -605,6 +715,69 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Machine Learning",
+          "description": "Coding Train repo with links to machine learning resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82401644,
+            "language": null,
+            "last_commit": "2021-05-25T04:40:32Z",
+            "owner": "CodingTrain",
+            "repo": "Machine-Learning",
+            "stars": 1003
+          }
+        }
+      ],
+      "title": "Machine Learning • Computer Vision • AI"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "People You Should Follow on CodePen",
+          "description": "List of interesting people worth following.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73754180,
+            "language": "JavaScript",
+            "last_commit": "2021-01-02T13:17:54Z",
+            "owner": "nucliweb",
+            "repo": "People-You-Should-Follow-on-CodePen",
+            "stars": 713
+          }
+        }
+      ],
+      "title": "Inspiration"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jsdo.it-archives",
+          "description": "Compilation of WebGL experiments including comparisons on WebGL frameworks and physics engine (oimo.js, cannon.js, ammo.js).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206946607,
+            "language": "JavaScript",
+            "last_commit": "2025-12-31T17:16:19Z",
+            "owner": "cx20",
+            "repo": "jsdo.it-archives",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Blogs • Websites"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Awesome public datasets",
           "description": "Curated list of public available datasets, mostly free resources.",
           "children": [],
@@ -612,10 +785,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-21T17:12:16Z",
+            "last_commit": "2026-08-23T23:52:17Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78528
+            "stars": 78582
           }
         },
         {
@@ -630,7 +803,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23512
+            "stars": 23517
           }
         },
         {
@@ -645,7 +818,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17187
+            "stars": 17191
           }
         },
         {
@@ -690,7 +863,7 @@
             "last_commit": "2026-08-10T09:09:40Z",
             "owner": "toplap",
             "repo": "awesome-livecoding",
-            "stars": 3272
+            "stars": 3273
           }
         },
         {
@@ -705,7 +878,7 @@
             "last_commit": "2026-01-09T12:26:55Z",
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2436
+            "stars": 2435
           }
         },
         {
@@ -720,7 +893,7 @@
             "last_commit": "2026-06-14T09:29:51Z",
             "owner": "raphamorim",
             "repo": "awesome-canvas",
-            "stars": 1858
+            "stars": 1859
           }
         },
         {
@@ -803,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:50:27.468Z",
+    "last_updated": "2026-08-24T13:57:23.317Z",
     "original_repository": "terkelg/awesome-creative-coding",
     "original_repository_id": 72586805,
     "original_repository_sha": "9643124b4a883e20dfb1b79df69505418728dbeb",
