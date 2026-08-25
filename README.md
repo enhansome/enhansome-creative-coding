@@ -1,6 +1,6 @@
 # Awesome Creative Coding with stars
 
-# [<img src="https://raw.githubusercontent.com/terkelg/awesome-creative-coding/master/cover.png">](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,240 | 🐛 7 | 🌐 HTML | 📅 2026-07-21
+# [<img src="https://raw.githubusercontent.com/terkelg/awesome-creative-coding/master/cover.png">](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,241 | 🐛 6 | 🌐 HTML | 📅 2026-07-21
 
 > Carefully curated list of awesome [creative coding](https://en.wikipedia.org/wiki/Creative_coding) resources primarily for beginners/intermediates.
 
@@ -115,8 +115,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ### Frameworks • Libraries • Ecosystems
 
-* [Canvas-sketch](https://github.com/mattdesl/canvas-sketch) ⭐ 5,276 | 🐛 61 | 🌐 JavaScript | 📅 2026-06-02 \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
-* [Lygia](https://github.com/patriciogonzalezvivo/lygia) ⭐ 3,411 | 🐛 19 | 🌐 GLSL | 📅 2026-08-17 \[Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
+* [Canvas-sketch](https://github.com/mattdesl/canvas-sketch) ⭐ 5,277 | 🐛 61 | 🌐 JavaScript | 📅 2026-06-02 \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
+* [Lygia](https://github.com/patriciogonzalezvivo/lygia) ⭐ 3,412 | 🐛 19 | 🌐 GLSL | 📅 2026-08-17 \[Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
 * [C4](https://github.com/C4Labs/C4iOS) ⭐ 973 | 🐛 18 | 🌐 Swift | 📅 2021-02-07 \[iOS] - Open-source creative coding framework for iOS.
 * [Fragment.tools](https://github.com/raphaelameaume/fragment) ⭐ 935 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-31 \[Cross-platform] - A web development environment for creative coding.
 * [PixelKit](https://github.com/heestand-xyz/PixelKit) ⚠️ Archived \[iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
@@ -169,15 +169,15 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ### Web Programming • Libraries
 
-* [three.js](https://github.com/mrdoob/three.js/) ⭐ 114,748 | 🐛 376 | 🌐 JavaScript | 📅 2026-08-24 - JavaScript 3D library.
-* [Babylon.js](https://github.com/BabylonJS/Babylon.js) ⭐ 25,978 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-24 - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
-* [Theatre.js](https://github.com/theatre-js/theatre) ⭐ 12,629 | 🐛 141 | 🌐 TypeScript | 📅 2024-08-14 - Motion design library with visual tools.
+* [three.js](https://github.com/mrdoob/three.js/) ⭐ 114,766 | 🐛 375 | 🌐 JavaScript | 📅 2026-08-25 - JavaScript 3D library.
+* [Babylon.js](https://github.com/BabylonJS/Babylon.js) ⭐ 25,980 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-25 - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
+* [Theatre.js](https://github.com/theatre-js/theatre) ⭐ 12,630 | 🐛 141 | 🌐 TypeScript | 📅 2024-08-14 - Motion design library with visual tools.
 * [regl](https://github.com/regl-project/regl) ⭐ 5,574 | 🐛 126 | 🌐 JavaScript | 📅 2026-08-04 - Functional WebGL.
 * [OGL.js](https://github.com/oframe/ogl) ⭐ 4,634 | 🐛 24 | 🌐 JavaScript | 📅 2025-04-13 - JavaScript 3D library (WebGL).
-* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,555 | 🐛 175 | 🌐 C++ | 📅 2026-06-16 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,556 | 🐛 175 | 🌐 C++ | 📅 2026-06-16 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Oimo.js](https://github.com/lo-th/Oimo.js/) ⭐ 3,172 | 🐛 49 | 🌐 JavaScript | 📅 2021-07-08 - Lightweight 3D physics engine for JavaScript.
-* [twgl.js](https://github.com/greggman/twgl.js) ⭐ 2,996 | 🐛 55 | 🌐 JavaScript | 📅 2025-10-13 - A tiny WebGL helper library.
-* [luma.gl](https://github.com/visgl/luma.gl) ⭐ 2,464 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-23 - WebGL2 Components for Data Visualization.
+* [twgl.js](https://github.com/greggman/twgl.js) ⭐ 2,997 | 🐛 55 | 🌐 JavaScript | 📅 2025-10-13 - A tiny WebGL helper library.
+* [luma.gl](https://github.com/visgl/luma.gl) ⭐ 2,465 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-25 - WebGL2 Components for Data Visualization.
 * [lightgl.js](https://github.com/evanw/lightgl.js) ⭐ 1,570 | 🐛 18 | 🌐 JavaScript | 📅 2022-08-25 - A lightweight WebGL library.
 * [picogl.js](https://github.com/tsherif/picogl.js) ⭐ 796 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-07 - A minimal WebGL 2 rendering library.
 * [Alfrid](https://github.com/yiwenl/Alfrid) ⭐ 238 | 🐛 19 | 🌐 JavaScript | 📅 2025-07-16 - A WebGL tool set.
@@ -246,7 +246,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ### Other
 
-* [Klak](https://github.com/keijiro/Klak) ⭐ 2,001 | 🐛 17 | 🌐 C# | 📅 2024-01-05 - A collection of scripts for creative coding with Unity.
+* [Klak](https://github.com/keijiro/Klak) ⭐ 2,002 | 🐛 17 | 🌐 C# | 📅 2024-01-05 - A collection of scripts for creative coding with Unity.
 * [Konstrukt](https://github.com/MarcelMue/konstrukt) ⭐ 67 | 🐛 3 | 🌐 Go | 📅 2024-06-17 \[Cross-platform] - A commandline tool to generate different scalable patterns as SVGs.
 * [Structure Synth](https://structuresynth.sourceforge.net/) \[Cross-platform] - Application for generating 3D structures by specifying a design grammar.
 * [F3](https://www.syedrezaali.com/work/f3/) \[Mac] - Powerful 3D design app that enables you to live code 3D form.
@@ -422,7 +422,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Math
 
-* [Math as code](https://github.com/Experience-Monks/math-as-code) ⭐ 15,487 | 🐛 36 | 📅 2022-03-08 - Cheat-sheet for mathematical notation in code form.
+* [Math as code](https://github.com/Experience-Monks/math-as-code) ⭐ 15,488 | 🐛 36 | 📅 2022-03-08 - Cheat-sheet for mathematical notation in code form.
 * [Eases](https://github.com/mattdesl/eases) ⭐ 386 | 🐛 5 | 🌐 JavaScript | 📅 2017-07-08 - Grab-bag of modular easing equations.
 * [Learning Maths again](https://github.com/silviopaganini/maths) ⭐ 198 | 🐛 0 | 📅 2019-11-13 - Collection of JS and GLSL math snippets.
 * [Math snippets](https://github.com/terkelg/math) ⭐ 122 | 🐛 0 | 📅 2025-07-28 - Math snippets with graphic programming in mind.
@@ -536,14 +536,14 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Related
 
-* [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,584 | 🐛 159 | 📅 2026-08-23 - Curated list of public available datasets, mostly free resources.
-* [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,517 | 🐛 91 | 📅 2024-05-17 - Curated list of awesome computer vision resources.
-* [Magic tools](https://github.com/ellisonleao/magictools) ⭐ 17,191 | 🐛 14 | 🌐 Markdown | 📅 2026-08-17 - Curated list of game development resources to make magic happen.
-* [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) ⭐ 10,191 | 🐛 21 | 📅 2024-07-04 - A resource repository for 3D machine learning.
+* [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,604 | 🐛 159 | 📅 2026-08-24 - Curated list of public available datasets, mostly free resources.
+* [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,517 | 🐛 92 | 📅 2024-05-17 - Curated list of awesome computer vision resources.
+* [Magic tools](https://github.com/ellisonleao/magictools) ⭐ 17,194 | 🐛 14 | 🌐 Markdown | 📅 2026-08-17 - Curated list of game development resources to make magic happen.
+* [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) ⭐ 10,192 | 🐛 21 | 📅 2024-07-04 - A resource repository for 3D machine learning.
 * [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,062 | 🐛 13 | 🌐 Shell | 📅 2026-08-13 - Curated list about Audio Visualization.
-* [Awesome livecoding](https://github.com/toplap/awesome-livecoding) ⭐ 3,273 | 🐛 6 | 📅 2026-08-10 - Curated list of livecoding languages and tools.
-* [Awesome opengl](https://github.com/eug/awesome-opengl) ⭐ 2,435 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources.
-* [Awesome canvas](https://github.com/raphamorim/awesome-canvas) ⭐ 1,859 | 🐛 13 | 🌐 Markdown | 📅 2026-06-14 - Curated list of awesome HTML5 canvas with examples, related articles and posts.
+* [Awesome livecoding](https://github.com/toplap/awesome-livecoding) ⭐ 3,274 | 🐛 6 | 📅 2026-08-10 - Curated list of livecoding languages and tools.
+* [Awesome opengl](https://github.com/eug/awesome-opengl) ⭐ 2,437 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources.
+* [Awesome canvas](https://github.com/raphamorim/awesome-canvas) ⭐ 1,860 | 🐛 12 | 🌐 Markdown | 📅 2026-06-14 - Curated list of awesome HTML5 canvas with examples, related articles and posts.
 * [Graphics resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,853 | 🐛 5 | 📅 2020-12-30 - Curated list of graphic programming resources.
 * [Awesome webgl](https://github.com/sjfricke/awesome-webgl) ⭐ 1,527 | 🐛 16 | 📅 2026-04-02 - Curated list of awesome WebGL libraries, resources and much more.
 * [Awesome graphics](https://github.com/ericjang/awesome-graphics) ⭐ 1,116 | 🐛 3 | 📅 2020-02-29 - Curated list of computer graphics tutorials and resources.
@@ -559,4 +559,4 @@ To the extent possible under law, [Terkel Gjervig](https://terkel.com) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
