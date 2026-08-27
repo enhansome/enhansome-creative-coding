@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-02T16:26:31Z",
                 "owner": "mattdesl",
                 "repo": "canvas-sketch",
-                "stars": 5278
+                "stars": 5277
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2025-08-04T16:56:47Z",
                 "owner": "kousun12",
                 "repo": "eternal",
-                "stars": 579
+                "stars": 580
               }
             }
           ],
@@ -155,10 +155,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T10:09:32Z",
+                "last_commit": "2026-08-27T17:07:02Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114845
+                "stars": 114855
               }
             },
             {
@@ -170,10 +170,10 @@
                 "archived": false,
                 "id": 11007313,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:34:54Z",
+                "last_commit": "2026-08-27T17:52:10Z",
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25987
+                "stars": 25991
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2024-08-14T13:20:18Z",
                 "owner": "theatre-js",
                 "repo": "theatre",
-                "stars": 12633
+                "stars": 12636
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-08-04T15:44:32Z",
                 "owner": "regl-project",
                 "repo": "regl",
-                "stars": 5575
+                "stars": 5576
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-25T21:43:05Z",
                 "owner": "visgl",
                 "repo": "luma.gl",
-                "stars": 2465
+                "stars": 2466
               }
             },
             {
@@ -367,7 +367,7 @@
                 "last_commit": "2015-02-17T02:07:25Z",
                 "owner": "cdglabs",
                 "repo": "Shadershop",
-                "stars": 919
+                "stars": 920
               }
             }
           ],
@@ -785,10 +785,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-26T21:15:40Z",
+            "last_commit": "2026-08-27T22:41:18Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78670
+            "stars": 78677
           }
         },
         {
@@ -803,7 +803,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23520
+            "stars": 23521
           }
         },
         {
@@ -818,7 +818,7 @@
             "last_commit": "2026-08-25T12:55:42Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17204
+            "stars": 17208
           }
         },
         {
@@ -833,7 +833,7 @@
             "last_commit": "2024-07-04T19:13:09Z",
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10194
+            "stars": 10196
           }
         },
         {
@@ -848,7 +848,7 @@
             "last_commit": "2026-08-13T14:34:10Z",
             "owner": "willianjusten",
             "repo": "awesome-audio-visualization",
-            "stars": 5064
+            "stars": 5065
           }
         },
         {
@@ -953,7 +953,7 @@
             "last_commit": "2020-01-31T19:14:17Z",
             "owner": "mathisonian",
             "repo": "awesome-visualization-research",
-            "stars": 982
+            "stars": 983
           }
         },
         {
@@ -976,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:32:40.531Z",
+    "last_updated": "2026-08-27T23:52:05.135Z",
     "original_repository_info": {
       "archived": false,
       "id": 72586805,
@@ -984,7 +984,7 @@
       "last_commit": "2026-07-21T15:01:30Z",
       "owner": "terkelg",
       "repo": "awesome-creative-coding",
-      "stars": 15240
+      "stars": 15245
     },
     "original_repository_sha": "9643124b4a883e20dfb1b79df69505418728dbeb",
     "enhanced_repository": "enhansome/enhansome-creative-coding",
