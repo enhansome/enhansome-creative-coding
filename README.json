@@ -21,7 +21,7 @@
                 "open_issues": 61,
                 "owner": "mattdesl",
                 "repo": "canvas-sketch",
-                "stars": 5277,
+                "stars": 5278,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
@@ -152,7 +152,7 @@
                 "id": 475543858,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-08-28T06:16:10Z",
+                "last_commit": "2026-08-29T10:39:40Z",
                 "open_issues": 1,
                 "owner": "heestand-xyz",
                 "repo": "AsyncGraphics",
@@ -191,7 +191,7 @@
                 "open_issues": 8,
                 "owner": "kousun12",
                 "repo": "eternal",
-                "stars": 580,
+                "stars": 581,
                 "topics": [
                   "3d-graphics",
                   "art",
@@ -264,11 +264,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T00:55:40Z",
-                "open_issues": 380,
+                "last_commit": "2026-08-29T10:57:01Z",
+                "open_issues": 379,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114904,
+                "stars": 114917,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -302,7 +302,7 @@
                 "open_issues": 20,
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25995,
+                "stars": 25996,
                 "topics": [
                   "3d",
                   "babylon",
@@ -336,7 +336,7 @@
                 "open_issues": 141,
                 "owner": "theatre-js",
                 "repo": "theatre",
-                "stars": 12638,
+                "stars": 12639,
                 "topics": [
                   "animation",
                   "devtools",
@@ -389,7 +389,7 @@
                 "open_issues": 24,
                 "owner": "oframe",
                 "repo": "ogl",
-                "stars": 4636,
+                "stars": 4637,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
@@ -1197,7 +1197,7 @@
             "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78694,
+            "stars": 78702,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1240,11 +1240,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:14:32Z",
+            "last_commit": "2026-08-29T10:42:24Z",
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17212,
+            "stars": 17213,
             "topics": [
               "art",
               "awesome",
@@ -1282,7 +1282,7 @@
             "open_issues": 21,
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10196,
+            "stars": 10194,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -1314,7 +1314,7 @@
             "open_issues": 13,
             "owner": "willianjusten",
             "repo": "awesome-audio-visualization",
-            "stars": 5066,
+            "stars": 5067,
             "topics": []
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
@@ -1538,7 +1538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:11:24.913Z",
+    "last_updated": "2026-08-29T17:46:56.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
@@ -1550,7 +1550,7 @@
       "open_issues": 8,
       "owner": "terkelg",
       "repo": "awesome-creative-coding",
-      "stars": 15254,
+      "stars": 15256,
       "topics": [
         "3d-graphics",
         "art",
