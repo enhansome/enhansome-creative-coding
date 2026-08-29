@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[beta] A framework for making generative artwork in JavaScript and the browser.",
+                "homepage": null,
                 "id": 137313102,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-02T16:26:31Z",
+                "open_issues": 61,
                 "owner": "mattdesl",
                 "repo": "canvas-sketch",
-                "stars": 5277
+                "stars": 5277,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -28,12 +33,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LYGIA, it's a granular and multi-language (GLSL, HLSL, Metal,  WGSL,  WEGL and CUDA) shader library designed for performance and flexibility",
+                "homepage": "https://lygia.xyz",
                 "id": 355252375,
                 "language": "GLSL",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T11:09:31Z",
+                "open_issues": 19,
                 "owner": "patriciogonzalezvivo",
                 "repo": "lygia",
-                "stars": 3418
+                "stars": 3418,
+                "topics": [
+                  "cuda",
+                  "directx",
+                  "glsl",
+                  "hlsl",
+                  "library",
+                  "metal",
+                  "opengl",
+                  "shader",
+                  "vulkan",
+                  "webgl",
+                  "webgpu",
+                  "wesl",
+                  "wgsl"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -44,12 +68,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C4 is an open-source creative coding framework that harnesses the power of native iOS programming with a simplified API that gets you working with media right away. Build artworks, design interfaces and explore new possibilities working with media and interaction.",
+                "homepage": "www.c4ios.com",
                 "id": 3472786,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-02-07T16:04:43Z",
+                "open_issues": 18,
                 "owner": "C4Labs",
                 "repo": "C4iOS",
-                "stars": 973
+                "stars": 973,
+                "topics": [
+                  "creative-coding",
+                  "swift",
+                  "uikit"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -60,12 +93,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[alpha] A modern toolkit for creative coding",
+                "homepage": "https://fragment.tools",
                 "id": 226928112,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-31T12:21:00Z",
+                "open_issues": 4,
                 "owner": "raphaelameaume",
                 "repo": "fragment",
-                "stars": 935
+                "stars": 935,
+                "topics": [
+                  "creative-coding",
+                  "generative-art",
+                  "javascript",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -76,12 +119,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Live Graphics in Swift & Metal",
+                "homepage": null,
                 "id": 142007910,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-02-05T03:06:46Z",
+                "open_issues": 3,
                 "owner": "heestand-xyz",
                 "repo": "PixelKit",
-                "stars": 891
+                "stars": 891,
+                "topics": [
+                  "graphics",
+                  "ios",
+                  "live",
+                  "macos",
+                  "metal",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -92,12 +147,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Edit images and video with Swift concurrency, powered by Metal.",
+                "homepage": "https://heestand-xyz.github.io/AsyncGraphics-Docs/documentation/asyncgraphics/",
                 "id": 475543858,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-28T06:16:10Z",
+                "open_issues": 1,
                 "owner": "heestand-xyz",
                 "repo": "AsyncGraphics",
-                "stars": 417
+                "stars": 417,
+                "topics": [
+                  "camera",
+                  "concurrency",
+                  "graphics",
+                  "metal",
+                  "swift",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             }
@@ -115,12 +182,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👾~ music, eternal ~ 👾",
+                "homepage": "https://eternal.rob.computer",
                 "id": 166133747,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-04T16:56:47Z",
+                "open_issues": 8,
                 "owner": "kousun12",
                 "repo": "eternal",
-                "stars": 580
+                "stars": 580,
+                "topics": [
+                  "3d-graphics",
+                  "art",
+                  "creative-coding",
+                  "data-processing",
+                  "glsl",
+                  "midi",
+                  "music",
+                  "node-based",
+                  "webaudio",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             }
@@ -138,12 +221,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "interactive programming of melodies, producing MIDI ",
+                "homepage": null,
                 "id": 19406101,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:08:49Z",
+                "open_issues": 3,
                 "owner": "emicklei",
                 "repo": "melrose",
-                "stars": 212
+                "stars": 212,
+                "topics": [
+                  "golang",
+                  "livecoding",
+                  "mcp-server",
+                  "midi",
+                  "music",
+                  "music-composition",
+                  "music-programming",
+                  "music-programming-language",
+                  "notes"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             }
@@ -161,12 +259,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript 3D Library.",
+                "homepage": "https://threejs.org/",
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T23:10:10Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:55:40Z",
+                "open_issues": 380,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114897
+                "stars": 114904,
+                "topics": [
+                  "3d",
+                  "augmented-reality",
+                  "canvas",
+                  "html5",
+                  "javascript",
+                  "svg",
+                  "virtual-reality",
+                  "webaudio",
+                  "webgl",
+                  "webgl2",
+                  "webgpu",
+                  "webxr"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -177,12 +293,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+                "homepage": "http://www.babylonjs.com",
                 "id": 11007313,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T17:52:10Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:51:16Z",
+                "open_issues": 20,
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25995
+                "stars": 25995,
+                "topics": [
+                  "3d",
+                  "babylon",
+                  "game-development",
+                  "game-engine",
+                  "game-engine-3d",
+                  "typescript",
+                  "webaudio",
+                  "webgl",
+                  "webgl2",
+                  "webgpu",
+                  "webvr",
+                  "webxr"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -193,12 +327,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Motion design editor for the web",
+                "homepage": "https://www.theatrejs.com",
                 "id": 15393566,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-14T13:20:18Z",
+                "open_issues": 141,
                 "owner": "theatre-js",
                 "repo": "theatre",
-                "stars": 12638
+                "stars": 12638,
+                "topics": [
+                  "animation",
+                  "devtools",
+                  "generative-art",
+                  "motion-design",
+                  "r3f",
+                  "threejs"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -209,12 +355,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👑 Functional WebGL",
+                "homepage": "https://regl-project.github.io/",
                 "id": 52315611,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-04T15:44:32Z",
+                "open_issues": 126,
                 "owner": "regl-project",
                 "repo": "regl",
-                "stars": 5577
+                "stars": 5577,
+                "topics": [
+                  "javascript",
+                  "regl",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -225,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal WebGL Library",
+                "homepage": "https://oframe.github.io/ogl/examples",
                 "id": 134879852,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-04-13T07:51:49Z",
+                "open_issues": 24,
                 "owner": "oframe",
                 "repo": "ogl",
-                "stars": 4635
+                "stars": 4636,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -241,12 +401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten",
+                "homepage": null,
                 "id": 1815807,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-16T19:27:27Z",
+                "open_issues": 175,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4558
+                "stars": 4558,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -257,12 +422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight 3d physics engine for javascript",
+                "homepage": "http://lo-th.github.io/Oimo.js",
                 "id": 13634772,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-07-08T16:40:21Z",
+                "open_issues": 49,
                 "owner": "lo-th",
                 "repo": "Oimo.js",
-                "stars": 3172
+                "stars": 3172,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -273,12 +443,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tiny WebGL helper Library",
+                "homepage": "http://twgljs.org",
                 "id": 32981420,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-10-13T21:55:41Z",
+                "open_issues": 55,
                 "owner": "greggman",
                 "repo": "twgl.js",
-                "stars": 2997
+                "stars": 2997,
+                "topics": [
+                  "webgl",
+                  "webgl2"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -289,12 +467,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance Toolkit for WebGL-based Data Visualization",
+                "homepage": "https://luma.gl",
                 "id": 50340928,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T21:43:05Z",
+                "open_issues": 30,
                 "owner": "visgl",
                 "repo": "luma.gl",
-                "stars": 2466
+                "stars": 2466,
+                "topics": [
+                  "data-visualization",
+                  "uber",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -305,12 +492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight WebGL library",
+                "homepage": null,
                 "id": 1954949,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-08-25T07:09:47Z",
+                "open_issues": 18,
                 "owner": "evanw",
                 "repo": "lightgl.js",
-                "stars": 1570
+                "stars": 1570,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -321,12 +513,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal WebGL 2 rendering library",
+                "homepage": "https://tsherif.github.io/picogl.js/",
                 "id": 81807798,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-07T11:56:24Z",
+                "open_issues": 26,
                 "owner": "tsherif",
                 "repo": "picogl.js",
-                "stars": 796
+                "stars": 796,
+                "topics": [
+                  "3d",
+                  "webgl",
+                  "webgl2"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -337,12 +538,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WebGL tool set.",
+                "homepage": null,
                 "id": 27545791,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-07-16T19:46:22Z",
+                "open_issues": 19,
                 "owner": "yiwenl",
                 "repo": "Alfrid",
-                "stars": 238
+                "stars": 238,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             }
@@ -360,12 +566,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A realtime preview tool for projection mapping",
+                "homepage": null,
                 "id": 29734830,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-09-07T10:03:31Z",
+                "open_issues": 6,
                 "owner": "baku89",
                 "repo": "VirtualMapper",
-                "stars": 235
+                "stars": 235,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             }
@@ -383,12 +594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 27353641,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2015-02-17T02:07:25Z",
+                "open_issues": 8,
                 "owner": "cdglabs",
                 "repo": "Shadershop",
-                "stars": 920
+                "stars": 920,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             }
@@ -406,12 +622,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creative coding library for Unity",
+                "homepage": null,
                 "id": 49410042,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-01-05T11:35:29Z",
+                "open_issues": 17,
                 "owner": "keijiro",
                 "repo": "Klak",
-                "stars": 2002
+                "stars": 2002,
+                "topics": [
+                  "plugin",
+                  "unity",
+                  "unity3d"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -422,12 +647,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Commandline tool for me to play with concrete art.",
+                "homepage": null,
                 "id": 145142516,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-06-17T04:08:02Z",
+                "open_issues": 3,
                 "owner": "MarcelMue",
                 "repo": "konstrukt",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             }
@@ -453,12 +683,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":wrench: LibGDX/LWJGL tutorials and examples",
+                    "homepage": null,
                     "id": 6537891,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2019-05-23T20:55:00Z",
+                    "open_issues": 13,
                     "owner": "mattdesl",
                     "repo": "lwjgl-basics",
-                    "stars": 1895
+                    "stars": 1895,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:37:45.945Z"
                 },
@@ -469,12 +704,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code to accompany a series of OpenGL articles on tomdalling.com",
+                    "homepage": "http://tomdalling.com/",
                     "id": 6812574,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-03-26T02:20:29Z",
+                    "open_issues": 2,
                     "owner": "tomdalling",
                     "repo": "opengl-series",
-                    "stars": 815
+                    "stars": 815,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:37:45.945Z"
                 },
@@ -485,12 +725,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":bulb: phong shading tutorial with glslify",
+                    "homepage": "http://stack.gl/glsl-lighting-walkthrough/",
                     "id": 35382964,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2015-05-22T14:22:36Z",
+                    "open_issues": 1,
                     "owner": "stackgl",
                     "repo": "glsl-lighting-walkthrough",
-                    "stars": 466
+                    "stars": 466,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:37:45.945Z"
                 },
@@ -501,12 +746,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Using custom vertex and fragment shaders in ThreeJS",
+                    "homepage": null,
                     "id": 68964227,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-09-23T13:42:22Z",
+                    "open_issues": 1,
                     "owner": "Experience-Monks",
                     "repo": "jam3-lesson-webgl-shader-threejs",
-                    "stars": 365
+                    "stars": 365,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:37:45.945Z"
                 },
@@ -517,12 +767,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A brief introduction to fragment shaders.",
+                    "homepage": null,
                     "id": 68859727,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2017-09-20T11:58:57Z",
+                    "open_issues": 3,
                     "owner": "Experience-Monks",
                     "repo": "jam3-lesson-webgl-shader-intro",
-                    "stars": 307
+                    "stars": 307,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:37:45.945Z"
                 },
@@ -533,12 +788,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a simple example of ThreeJS with glslify",
+                    "homepage": "http://mattdesl.github.io/three-glslify-example/",
                     "id": 33951988,
                     "language": "GLSL",
+                    "license": "MIT",
                     "last_commit": "2017-01-27T01:11:33Z",
+                    "open_issues": 0,
                     "owner": "mattdesl",
                     "repo": "three-glslify-example",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:37:45.945Z"
                 },
@@ -549,12 +809,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a tutorial on ThreeJS post processing",
+                    "homepage": null,
                     "id": 51090445,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-02-08T15:57:43Z",
+                    "open_issues": 0,
                     "owner": "Experience-Monks",
                     "repo": "threejs-post-process-example",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:37:45.945Z"
                 },
@@ -565,12 +830,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WebGL - Beyond the DOM",
+                    "homepage": null,
                     "id": 82703878,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2017-11-03T20:58:20Z",
+                    "open_issues": 0,
                     "owner": "gregtatum",
                     "repo": "talk-webgl-beyond-dom",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:37:45.945Z"
                 }
@@ -593,12 +863,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":mortar_board: A workshopper for GLSL shaders and graphics programming",
+                "homepage": null,
                 "id": 17576966,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2021-03-20T20:52:04Z",
+                "open_issues": 48,
                 "owner": "stackgl",
                 "repo": "shader-school",
-                "stars": 4414
+                "stars": 4414,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             },
@@ -609,12 +884,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":mortar_board: The sequel to shader-school: Learn the WebGL API",
+                "homepage": null,
                 "id": 23548098,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-06T03:24:25Z",
+                "open_issues": 37,
                 "owner": "stackgl",
                 "repo": "webgl-workshop",
-                "stars": 1498
+                "stars": 1498,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             }
@@ -632,12 +912,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resources on the topic of digital morphogenesis (creating form with code). Includes links to major articles, code repos, creative projects, books, software, and more.",
+                "homepage": null,
                 "id": 182890512,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-21T16:28:35Z",
+                "open_issues": 17,
                 "owner": "jasonwebb",
                 "repo": "morphogenesis-resources",
-                "stars": 2278
+                "stars": 2278,
+                "topics": [
+                  "computational-geometry",
+                  "growth-algorithms",
+                  "morphogenesis",
+                  "pattern-formation",
+                  "procedural-generation",
+                  "research",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
             }
@@ -659,12 +952,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a cheat-sheet for mathematical notation in code form",
+            "homepage": null,
             "id": 38273467,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-03-08T02:36:31Z",
+            "open_issues": 36,
             "owner": "Experience-Monks",
             "repo": "math-as-code",
-            "stars": 15488
+            "stars": 15488,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -675,12 +973,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a grab-bag of modular easing equations",
+            "homepage": null,
             "id": 23964953,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-08T14:47:14Z",
+            "open_issues": 5,
             "owner": "mattdesl",
             "repo": "eases",
-            "stars": 386
+            "stars": 386,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -691,12 +994,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "learning maths again",
+            "homepage": null,
             "id": 38685452,
             "language": null,
+            "license": null,
             "last_commit": "2019-11-13T17:37:19Z",
+            "open_issues": 0,
             "owner": "silviopaganini",
             "repo": "maths",
-            "stars": 198
+            "stars": 198,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -707,12 +1015,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Math snippets with graphic programming in mind.",
+            "homepage": null,
             "id": 48323844,
             "language": null,
+            "license": null,
             "last_commit": "2025-07-28T16:29:51Z",
+            "open_issues": 0,
             "owner": "terkelg",
             "repo": "math",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "math",
+              "math-snippets",
+              "spring",
+              "velocity"
+            ]
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -723,12 +1041,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📐✏️ Slides from my talk on Mathematics of Animation @ .concat() 2018",
+            "homepage": "https://winkervsbecks.github.io/mathematics-of-animation",
             "id": 88317368,
             "language": "CSS",
+            "license": null,
             "last_commit": "2018-03-03T12:26:09Z",
+            "open_issues": 0,
             "owner": "winkerVSbecks",
             "repo": "mathematics-of-animation",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -739,12 +1062,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "L-system generators and visualizers",
+            "homepage": null,
             "id": 101977575,
             "language": "Haskell",
+            "license": "MIT",
             "last_commit": "2021-11-01T14:28:53Z",
+            "open_issues": 0,
             "owner": "arendsee",
             "repo": "lsystems",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "2d-graphics",
+              "generative-art",
+              "lindenmayer",
+              "lindenmayer-systems",
+              "lsystems",
+              "procedural-generation"
+            ]
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         }
@@ -761,12 +1096,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples and experiments around ML for upcoming Coding Train videos",
+            "homepage": null,
             "id": 82401644,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-25T04:40:32Z",
+            "open_issues": 4,
             "owner": "CodingTrain",
             "repo": "Machine-Learning",
-            "stars": 1003
+            "stars": 1003,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         }
@@ -783,12 +1123,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "People You Should Follow on CodePen",
+            "homepage": null,
             "id": 73754180,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-01-02T13:17:54Z",
+            "open_issues": 2,
             "owner": "nucliweb",
             "repo": "People-You-Should-Follow-on-CodePen",
-            "stars": 713
+            "stars": 713,
+            "topics": [
+              "animation",
+              "canvas",
+              "codepen",
+              "creative-coding",
+              "css",
+              "hacktoberfest",
+              "interaction",
+              "p5js",
+              "svg",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         }
@@ -805,12 +1161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jsdo.it archives",
+            "homepage": "https://cx20.github.io/jsdo.it-archives/",
             "id": 206946607,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-12-31T17:16:19Z",
+            "open_issues": 0,
             "owner": "cx20",
             "repo": "jsdo.it-archives",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         }
@@ -827,12 +1188,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A topic-centric list of HQ open datasets.",
+            "homepage": "https://awesomedataworld.slack.com",
             "id": 26898879,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-28T16:22:22Z",
+            "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78693
+            "stars": 78694,
+            "topics": [
+              "aaron-swartz",
+              "awesome-public-datasets",
+              "datasets",
+              "opendata"
+            ]
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -843,12 +1214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome computer vision resources",
+            "homepage": null,
             "id": 29357796,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-17T14:24:27Z",
+            "open_issues": 92,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23520
+            "stars": 23520,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -859,12 +1235,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
+            "homepage": null,
             "id": 21958186,
             "language": "Markdown",
-            "last_commit": "2026-08-28T17:26:39Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:14:32Z",
+            "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17212
+            "stars": 17212,
+            "topics": [
+              "art",
+              "awesome",
+              "awesome-list",
+              "board-games",
+              "curated",
+              "design",
+              "frameworks",
+              "game-design",
+              "game-development",
+              "game-engine",
+              "game-jam",
+              "game-programming",
+              "gamedev",
+              "games",
+              "hacktoberfest",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -875,12 +1273,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A resource repository for 3D machine learning",
+            "homepage": null,
             "id": 100120455,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-04T19:13:09Z",
+            "open_issues": 21,
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10196
+            "stars": 10196,
+            "topics": [
+              "3d",
+              "3d-reconstruction",
+              "constructive-solid-geometries",
+              "machine-learning",
+              "mesh",
+              "neural-networks",
+              "papers",
+              "point-cloud",
+              "primitives",
+              "voxel"
+            ]
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -891,12 +1305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list about Audio Visualization.",
+            "homepage": null,
             "id": 54681855,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-13T14:34:10Z",
+            "open_issues": 13,
             "owner": "willianjusten",
             "repo": "awesome-audio-visualization",
-            "stars": 5066
+            "stars": 5066,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -907,12 +1326,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "All things livecoding",
+            "homepage": "https://codeberg.org/toplap/awesome-livecoding",
             "id": 82000021,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-26T22:05:26Z",
+            "open_issues": 5,
             "owner": "toplap",
             "repo": "awesome-livecoding",
-            "stars": 3276
+            "stars": 3276,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "coding",
+              "graphics",
+              "live",
+              "livecoding",
+              "music",
+              "synthesis"
+            ]
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -923,12 +1356,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome OpenGL libraries, debuggers and resources.",
+            "homepage": null,
             "id": 37971591,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-09T12:26:55Z",
+            "open_issues": 0,
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2437
+            "stars": 2437,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "computer-graphics",
+              "game-development",
+              "glsl-editors",
+              "graphics-pipeline",
+              "lists",
+              "opengl",
+              "opengl-library",
+              "opengl-tutorial",
+              "video-tutorial"
+            ]
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -939,12 +1389,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
+            "homepage": null,
             "id": 28413081,
             "language": "Markdown",
+            "license": "MIT",
             "last_commit": "2026-06-14T09:29:51Z",
+            "open_issues": 13,
             "owner": "raphamorim",
             "repo": "awesome-canvas",
-            "stars": 1861
+            "stars": 1861,
+            "topics": [
+              "awesome",
+              "awesome-canvas",
+              "awesome-list",
+              "canvas-element",
+              "canvas2d",
+              "draw-graphics",
+              "html5-canvas",
+              "javascript",
+              "particles"
+            ]
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -955,12 +1420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: a list of graphic programming resources",
+            "homepage": null,
             "id": 38935281,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-12-30T21:02:56Z",
+            "open_issues": 5,
             "owner": "mattdesl",
             "repo": "graphics-resources",
-            "stars": 1853
+            "stars": 1854,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -971,12 +1441,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome WebGL libraries, resources and much more",
+            "homepage": null,
             "id": 77980522,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-04-02T03:35:40Z",
+            "open_issues": 16,
             "owner": "sjfricke",
             "repo": "awesome-webgl",
-            "stars": 1528
+            "stars": 1529,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "glsl-editors",
+              "learning-webgl",
+              "list",
+              "webgl",
+              "webgl-articles",
+              "webgl-programming",
+              "webgl-references",
+              "webgl-spec-sheet",
+              "webgl-tutorials"
+            ]
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -987,12 +1474,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of computer graphics tutorials and resources",
+            "homepage": null,
             "id": 48450988,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2020-02-29T22:27:34Z",
+            "open_issues": 3,
             "owner": "ericjang",
             "repo": "awesome-graphics",
-            "stars": 1117
+            "stars": 1117,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -1003,12 +1495,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of recommended research papers and other readings on data visualization",
+            "homepage": null,
             "id": 78582989,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-01-31T19:14:17Z",
+            "open_issues": 2,
             "owner": "mathisonian",
             "repo": "awesome-visualization-research",
-            "stars": 982
+            "stars": 982,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         },
@@ -1019,12 +1516,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of Creative Technology groups, companies, studios, collectives, etc.",
+            "homepage": null,
             "id": 237258427,
             "language": "TypeScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-06-28T16:28:49Z",
+            "open_issues": 2,
             "owner": "j0hnm4r5",
             "repo": "awesome-creative-technology",
-            "stars": 659
+            "stars": 658,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
         }
@@ -1033,15 +1538,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:37:45.945Z",
+    "last_updated": "2026-08-29T04:11:24.913Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
+      "homepage": null,
       "id": 72586805,
       "language": "HTML",
+      "license": null,
       "last_commit": "2026-07-21T15:01:30Z",
+      "open_issues": 8,
       "owner": "terkelg",
       "repo": "awesome-creative-coding",
-      "stars": 15253
+      "stars": 15254,
+      "topics": [
+        "3d-graphics",
+        "art",
+        "awesome",
+        "awesome-list",
+        "computer-graphics",
+        "creative-coding",
+        "data-visualization",
+        "design",
+        "generative-art",
+        "graphics-programming",
+        "information-visualization",
+        "interaction-design",
+        "list",
+        "programming-graphics",
+        "resources",
+        "shaders",
+        "webgl"
+      ]
     },
     "original_repository_sha": "9643124b4a883e20dfb1b79df69505418728dbeb",
     "enhanced_repository": "enhansome/enhansome-creative-coding",
