@@ -102,7 +102,7 @@
                 "open_issues": 4,
                 "owner": "raphaelameaume",
                 "repo": "fragment",
-                "stars": 936,
+                "stars": 937,
                 "topics": [
                   "creative-coding",
                   "generative-art",
@@ -230,7 +230,7 @@
                 "open_issues": 2,
                 "owner": "emicklei",
                 "repo": "melrose",
-                "stars": 212,
+                "stars": 213,
                 "topics": [
                   "golang",
                   "livecoding",
@@ -264,11 +264,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T17:58:12Z",
-                "open_issues": 383,
+                "last_commit": "2026-09-09T16:48:15Z",
+                "open_issues": 377,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 115286,
+                "stars": 115340,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -298,11 +298,11 @@
                 "id": 11007313,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T16:39:36Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-09T14:21:02Z",
+                "open_issues": 21,
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 26040,
+                "stars": 26045,
                 "topics": [
                   "3d",
                   "babylon",
@@ -336,7 +336,7 @@
                 "open_issues": 141,
                 "owner": "theatre-js",
                 "repo": "theatre",
-                "stars": 12657,
+                "stars": 12658,
                 "topics": [
                   "animation",
                   "devtools",
@@ -360,7 +360,7 @@
                 "id": 52315611,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T01:00:11Z",
+                "last_commit": "2026-09-08T23:55:53Z",
                 "open_issues": 127,
                 "owner": "regl-project",
                 "repo": "regl",
@@ -389,7 +389,7 @@
                 "open_issues": 25,
                 "owner": "oframe",
                 "repo": "ogl",
-                "stars": 4643,
+                "stars": 4644,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
@@ -406,11 +406,11 @@
                 "id": 1815807,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-06-16T19:27:27Z",
-                "open_issues": 176,
+                "last_commit": "2026-09-08T19:48:47Z",
+                "open_issues": 175,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4566,
+                "stars": 4567,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
@@ -448,11 +448,11 @@
                 "id": 32981420,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2025-10-13T21:55:41Z",
+                "last_commit": "2026-09-09T06:59:24Z",
                 "open_issues": 55,
                 "owner": "greggman",
                 "repo": "twgl.js",
-                "stars": 2998,
+                "stars": 3000,
                 "topics": [
                   "webgl",
                   "webgl2"
@@ -472,11 +472,11 @@
                 "id": 50340928,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T17:56:05Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-09T17:51:40Z",
+                "open_issues": 30,
                 "owner": "visgl",
                 "repo": "luma.gl",
-                "stars": 2469,
+                "stars": 2470,
                 "topics": [
                   "data-visualization",
                   "uber",
@@ -656,7 +656,7 @@
                 "open_issues": 3,
                 "owner": "MarcelMue",
                 "repo": "konstrukt",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
@@ -872,7 +872,7 @@
                 "open_issues": 48,
                 "owner": "stackgl",
                 "repo": "shader-school",
-                "stars": 4416,
+                "stars": 4415,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:37:45.945Z"
@@ -1193,11 +1193,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-08T15:30:36Z",
+            "last_commit": "2026-09-09T15:38:46Z",
             "open_issues": 158,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78870,
+            "stars": 78880,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1223,7 +1223,7 @@
             "open_issues": 92,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23545,
+            "stars": 23546,
             "topics": []
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17266,
+            "stars": 17268,
             "topics": [
               "art",
               "awesome",
@@ -1314,7 +1314,7 @@
             "open_issues": 15,
             "owner": "willianjusten",
             "repo": "awesome-audio-visualization",
-            "stars": 5071,
+            "stars": 5070,
             "topics": []
           },
           "first_seen": "2026-08-28T23:37:45.945Z"
@@ -1395,10 +1395,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-06-14T09:29:51Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "raphamorim",
             "repo": "awesome-canvas",
-            "stars": 1861,
+            "stars": 1862,
             "topics": [
               "awesome",
               "awesome-canvas",
@@ -1525,7 +1525,7 @@
             "open_issues": 2,
             "owner": "j0hnm4r5",
             "repo": "awesome-creative-technology",
-            "stars": 659,
+            "stars": 660,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1538,7 +1538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:00:16.932Z",
+    "last_updated": "2026-09-09T17:55:10.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
@@ -1547,10 +1547,10 @@
       "language": "HTML",
       "license": null,
       "last_commit": "2026-07-21T15:01:30Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "terkelg",
       "repo": "awesome-creative-coding",
-      "stars": 15299,
+      "stars": 15302,
       "topics": [
         "3d-graphics",
         "art",
